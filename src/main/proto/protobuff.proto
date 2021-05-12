@@ -2,8 +2,8 @@ syntax = "proto3";
 
 option java_multiple_files = true;
 option java_package = "br.com.zup.edu";
-option java_outer_classname = "Protobuff";
-option objc_class_prefix = "HLW";
+option java_outer_classname = "FuncionarioSeviceOuterClass";
+
 
 package br.com.zup.edu;
 import "google/protobuf/timestamp.proto";
